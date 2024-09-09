@@ -27,7 +27,9 @@ export default function Home() {
         <main className={styles.main}>
           <h1>oie marinex espero que funcione</h1>
 
-          <a href={"https://api.whatsapp.com/send/?phone=5531996927404&text&type=phone_number&app_absent=0"} target="_blank" download>Clique aqui para ir para o seu zap</a>
+          <a href={"https://api.whatsapp.com/send/?phone=5531996927404&text&type=phone_number&app_absent=0"} target="_blank" download>Whatsapp</a>
+          <a href={"https://drive.google.com/file/d/1jlyzD_Ymll2qLJ1SKLY7Oo8iqthTVPaz/view?usp=drivesdk"} target="_blank">Whatsapp</a>
+
         </main>
       </div>
     </>
