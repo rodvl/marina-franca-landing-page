@@ -22,7 +22,7 @@ export default function Home() {
           <h1 className={`${styles.title}`}>MARINA FRANÇA BEAUTY</h1>
           <div className={`${styles.linkContainer}`}>
             <a className={`${styles.link}`} href={"https://api.whatsapp.com/send/?phone=5531996927404&text&type=phone_number&app_absent=0"} target="_blank" download><img className={`${styles.whatsapp}`} src="/whatsapp.svg" alt="whatsapp-logo"/> Entre em contato</a>
-            <a className={`${styles.link}`} href={"https://drive.google.com/file/d/1jlyzD_Ymll2qLJ1SKLY7Oo8iqthTVPaz/view?usp=drivesdk"} target="_blank">Carta de serviços</a>
+            <a className={`${styles.link}`} href={"https://drive.google.com/file/d/1HSJf5ovGLPeOzYaCUiKMUky9p7J9dWnf/view?usp=drivesdk"} target="_blank">Carta de serviços</a>
           </div>
 
         </main>
