@@ -10,6 +10,7 @@
   text-align: center;
   display: flex;
   flex-wrap: wrap;
+  z-index: 2;
 }
 
 .title {
@@ -48,8 +49,9 @@
 
 .image {
   position: absolute;
-  bottom: 32px;
+  bottom: 12px;
   width: 300px;
   height: 111px;
   left: 32px;
+  z-index: 1;
 }
